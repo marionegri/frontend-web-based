@@ -3,3 +3,12 @@
 ################################################################################
 
 /WebAvaliacaoNeppo
+/ApiAvaliacaoNeppo/.vs
+/ApiAvaliacaoNeppo/ApiAvaliacaoNeppo/bin/Debug/netcoreapp2.0
+/ApiAvaliacaoNeppo/ApiAvaliacaoNeppo/obj
+/ApiAvaliacaoNeppo/Entidades/bin/Debug/netcoreapp2.0
+/ApiAvaliacaoNeppo/Entidades/obj
+/ApiAvaliacaoNeppo/Repositorio/bin/Debug/netcoreapp2.0
+/ApiAvaliacaoNeppo/Repositorio/obj
+/ApiAvaliacaoNeppo/Servicos/obj
+/ApiAvaliacaoNeppo/Servicos/bin/Debug/netcoreapp2.0
